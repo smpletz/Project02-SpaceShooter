@@ -1,10 +1,10 @@
 # Project02-SpaceShooter
 
-## Name:
+## Created By
 
 Sean Pletz
 
-## GitHub Username:
+## GitHub Username
 
 spletz
 
@@ -26,3 +26,9 @@ The explosion spritesheet was released into the public domain by [StumpyStrust](
 
 Background from [stocksnap](https://stocksnap.io/photo/night-starry-1X7TDFQBZO), provided under a [CC0 1.0 Public Domain License]
 (https://creativecommons.org/publicdomain/zero/1.0/).
+
+## References
+None
+
+## Future Development
+None
